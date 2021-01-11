@@ -1,0 +1,21 @@
+.banner {
+    background-color: skyblue;
+    color: white;
+    margin-top: 75px;
+    text-align: center;  
+    padding: 100px 0;    
+}
+
+#guitar-img {
+    height: 150px;
+    width: 400px;
+}
+
+#guitar {
+    color: skyblue;
+    font-size: 100px;
+}
+
+.bold {
+    font-weight: 900;
+}
